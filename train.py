@@ -7,6 +7,8 @@ import random
 #import seaborn as sns
 
 
+# %%
+
 class ModelTrainer(object):
     def __init__(self,
                  enc_module,
