@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f20b581c-b8b4-4c9e-9203-c0c2c2f454b5" name="Default Changelist" comment="new test">
+    <list default="true" id="f20b581c-b8b4-4c9e-9203-c0c2c2f454b5" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/webdav_lastsync.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +136,11 @@
       <updated>1556855662817</updated>
       <workItem from="1632814449292" duration="756000" />
       <workItem from="1634022019655" duration="823000" />
-      <workItem from="1634022966538" duration="1334000" />
+      <workItem from="1634022966538" duration="5450000" />
+      <workItem from="1634543642976" duration="124000" />
+      <workItem from="1634543989982" duration="116000" />
+      <workItem from="1634712913371" duration="33000" />
+      <workItem from="1636432698343" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="new test">
       <created>1632814670401</created>
@@ -152,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632815092556</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1634024741135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634024741135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -204,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new test" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fewshot_egnn$train.coverage" NAME="train Coverage Results" MODIFIED="1632814910701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
